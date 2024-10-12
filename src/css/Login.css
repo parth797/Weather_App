@@ -1,0 +1,7 @@
+#page{
+    height: 400px;
+    width: 400px;
+    background-image: url(../assets/cloudy.jpg);
+    background-size: cover;
+    border-radius: 50px;
+}

@@ -1,0 +1,31 @@
+#title{
+    background-image: url(../assets/cloudy1.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#temp{
+    height: 250px;
+    width: 400px;
+    margin: auto;
+    
+}
+
+#sunimg{
+    height: 100px;
+    width: 140px;
+}
+
+#inputFont{
+    font-size: 35px;
+}
+#inputFont1{
+    font-size: 45px;
+    font-weight: 700;
+}
